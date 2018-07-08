@@ -164,8 +164,8 @@ collarBend:
   description: La courbure du col.
   title: Courbure du col
 collarEase:
-  description: The amount of ease around your neck. TODO
-  title: Collar ease TODO
+  description: L'ampleur d'aisance autour du cou.
+  title: Aisance du cou
 collarFlare:
   description: The flare of the collar tips. TODO
   title: Collar flare TODO
